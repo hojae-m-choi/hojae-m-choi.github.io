@@ -16,7 +16,7 @@ timezone:
 
 title: Hojae Choi # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: AI Researcher # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ github:
   username: hojae-m-choi # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: mhjc_hjk # change to your twitter username
 
 social:
   # Change to your full name.
@@ -40,9 +40,9 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mhjc_hjk # change to your twitter homepage
     - https://github.com/hojae-m-choi # change to your github profile
+    - https://www.linkedin.com/in/hojae-m-choi
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
