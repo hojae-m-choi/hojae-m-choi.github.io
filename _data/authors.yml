@@ -1,5 +1,18 @@
-1:
+hjc_pro:
+  name: Hojae Choi
+  github: hojae-m-choi
+  twitter: mhjc_hjk
+  email: chjko0206@gmail.com
+  url: https://www.linkedin.com/in/hojae-m-choi
+
+hjc_per:
   name: Hojae Choi
   twitter: mhjc_hjk
   email: chjko0206@gmail.com
-  url: https://hojae-m-choi.github.io
+  url: https://hojae-m-choi.github.io/about/
+
+hjc_aca:
+  name: Hojae Choi
+  twitter: mhjc_hjk
+  email: hojae.choi@kaist.ac.kr
+  url: https://www.linkedin.com/in/hojae-m-choi

@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Hojae Choi # the main title
 
-tagline: AI Researcher # it will display as the subtitle
+tagline: ML Researcher # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -38,11 +38,11 @@ social:
   email: chjko0206@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://x.com/mhjc_hjk # change to your twitter homepage
     - https://github.com/hojae-m-choi # change to your github profile
+    - https://www.linkedin.com/in/hojae-m-choi
+    - https://x.com/mhjc_hjk # change to your twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/hojae-m-choi
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,21 +98,21 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "https://github.com/hojae-m-choi.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: github # string, local or CORS resources
+social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: disqus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: hojae-m-choi # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo: # <gh-username>/<repo>
