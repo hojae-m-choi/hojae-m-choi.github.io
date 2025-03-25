@@ -2,7 +2,6 @@
 layout: post
 title: Recent, interesting papers
 date: 2025-02-06 19:30 +0000
-author: hjc_aca
 categories: Review
 giscus_comments: true
 related_posts: true

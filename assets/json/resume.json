@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Hojae Choi",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "hojae.choi@kaist.ac.kr",
+    // "phone": "(912) 123-4567",
+    "url": "https://hojae-m-choi.github.io/",
+    // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -35,14 +35,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
+      "organization": "GenAIDD Team in Pseudo Lab",
+      "location": "Online",
+      "position": "Builder (Lead Organizer)",
       "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "startDate": "2025-03-13",
+      "endDate": "2025-06-13",
+      // "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
+      // "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
@@ -52,8 +52,8 @@
       "url": "https://www.uzh.ch/",
       "area": "Software Development",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2015-02-28",
+      "endDate": "2017-02-14",
       "score": "10",
       "courses": ["Theory of Relativity"]
     }
