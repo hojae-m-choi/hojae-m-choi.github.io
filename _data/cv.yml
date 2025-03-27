@@ -11,9 +11,20 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD.
+      institution: Korea Advanced Institute of Science and Technology, Dajeon, Korea
+      year: 2017 - NOW
+      description:
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+            
     - title: MSc.
       institution: Korea Advanced Institute of Science and Technology, Dajeon, Korea
-      year: 2017
+      year: 2015 - 2017
       description:
         - Description 1.
         - Description 2.
@@ -23,7 +34,7 @@
             - Sub-description 2.
     - title: B.S.
       institution: Gwangju Institute of Science and Technology, Gwangju, Korea
-      year: 2015
+      year: 2011 - 2015
       description:
         - Description 1.
         - Description 2.
@@ -33,9 +44,9 @@
   contents:
     - title: Senior Researcher
       institution: Shaperon Inc., Seoul, Korea
-      year: 2024 - Present
+      year: 2024 - NOW
       description:
-        - AI/ML Engineer in AI Drug Design team
+        - AI/ML Engineer in AI for Drug Design team
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -60,12 +71,12 @@
     #   institution: University of Zurich, Zurich, Switzerland
     #   year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 # - title: Honors and Awards
 #   type: time_table

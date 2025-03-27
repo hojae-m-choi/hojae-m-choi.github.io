@@ -10,6 +10,7 @@ related_posts: true
 
 ### Generative models for small molecules
 - Tao, Nianze, and Minori Abe. “Bayesian Flow Network Framework for Chemistry Tasks.” Journal of Chemical Information and Modeling, January 21, 2025, acs.jcim.4c01792. https://doi.org/10.1021/acs.jcim.4c01792.
+
 - Zhang, Zaixi, Mengdi Wang, and Qi Liu. “FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling.” arXiv, September 29, 2024. https://doi.org/10.48550/arXiv.2409.19645.
 
 - Lee, Seul, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, and Arash Vahdat. “GenMol: A Drug Discovery Generalist with Discrete Diffusion.” arXiv, January 10, 2025. https://doi.org/10.48550/arXiv.2501.06158.
