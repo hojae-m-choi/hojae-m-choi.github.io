@@ -30,21 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "post-recent-interesting-papers",
+        },{id: "post-recent-interesting-papers",
         
           title: "Recent, interesting papers",
         
@@ -55,12 +41,41 @@ ninja.data = [{
             window.location.href = "/blog/2025/recent-papers-of-interest/";
           
         },
-      },{
+      },{id: "news-i-started-a-role-builder-of-genaidd-team-in-pseudo-lab",
+          title: 'I started a role ‘builder’ of GenAIDD team in Pseudo Lab.',
+          description: "",
+          section: "News",},{id: "projects-generative-model-for-drug-design",
+          title: 'Generative model for Drug Design',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
           window.open("mailto:%68%6F%6A%61%65.%63%68%6F%69@%6B%61%69%73%74.%61%63.%6B%72", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/hojae-m-choi", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/hojae-m-choi", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-7689-1466", "_blank");
         },
       },{
         id: 'social-rss',
@@ -70,11 +85,11 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://scholar.google.com/citations?user=YsUp2VsAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
