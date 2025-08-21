@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Working on AI for DD as a Researcher </p>
+    <p>Working on AI for Drug Discovery as a Researcher </p>
     <p>Seoul, Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
